@@ -1,7 +1,7 @@
 /*
- * @Author: ltpp-universe 1491579574@qq.com
+ * @Author: eastspire 1491579574@qq.com
  * @Date: 2023-11-09 12:46:39
- * @LastEditors: ltpp-universe 1491579574@qq.com
+ * @LastEditors: eastspire 1491579574@qq.com
  * @LastEditTime: 2023-12-03 23:34:52
  * @FilePath: \sqs-douyin-collection-download\main.js
  * @Description: Email:1491579574@qq.com
